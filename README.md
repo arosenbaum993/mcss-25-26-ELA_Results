@@ -2,6 +2,8 @@
 
 Group totals for McIntosh County Schools' 2025-26 Georgia Milestones ELA results, with 2024-25 comparisons.
 
+**View the dashboard:** https://claude.ai/artifact/3v9ZB18nu24XC8ZUJKMWB6 (opens in Claude for people it has been shared with)
+
 **No student-level data belongs here.** Names, student IDs, and birth dates stay out. The `raw/` folder is ignored by git for that reason.
 
 - `workbook/` - one Excel workbook of totals for every school and grade: achievement levels, year over year, matched students, domains, writing, and MCA Lexile.
