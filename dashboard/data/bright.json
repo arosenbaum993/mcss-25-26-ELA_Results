@@ -1,0 +1,66 @@
+{
+ "rows": [
+  {
+   "key": "growthup",
+   "order": 1,
+   "big": "5 of 5",
+   "label": "grades with growth scores raised their median growth percentile",
+   "note": "Grades 4 through 8, compared with 2024-25."
+  },
+  {
+   "key": "cohort67",
+   "order": 2,
+   "big": "175L",
+   "label": "median Lexile gain for last year's 6th graders",
+   "note": "93% of the students we could match grew."
+  },
+  {
+   "key": "cohortel",
+   "order": 3,
+   "big": "160L",
+   "label": "median Lexile gain for both elementary groups",
+   "note": "Students followed from grade 3 to 4 and from grade 4 to 5."
+  },
+  {
+   "key": "g8growth",
+   "order": 4,
+   "big": "41",
+   "label": "Grade 8 students showed High Growth",
+   "note": "Median growth percentile of 57."
+  },
+  {
+   "key": "g7read",
+   "order": 5,
+   "big": "85%",
+   "label": "of Grade 7 students read on grade level",
+   "note": "Median Lexile 1115L."
+  },
+  {
+   "key": "g8lang",
+   "order": 6,
+   "big": "75%",
+   "label": "of Grade 8 students earned full credit on Language",
+   "note": "Clean, correct sentences in the argument essay."
+  },
+  {
+   "key": "lc2goal",
+   "order": 7,
+   "big": "52%",
+   "label": "of Lit & Comp II students scored Proficient or above",
+   "note": "That clears the MCA improvement plan goal of 50%."
+  },
+  {
+   "key": "lc2beg",
+   "order": 8,
+   "big": "8%",
+   "label": "of Lit & Comp II students scored Beginning",
+   "note": "The improvement plan goal was 20% or fewer."
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Year-over-year figures from the 2025-26 rosters and Longitudinal_Data.xlsx; other figures from the grades 6-8 deck and the Lit & Comp II workbook; improvement plan targets from the MCA SIP 2025-26 goals supplied by A. Rosenbaum."
+  }
+ ]
+}

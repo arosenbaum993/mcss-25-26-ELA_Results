@@ -1,0 +1,290 @@
+{
+ "rows": [
+  {
+   "key": "g3-1",
+   "id": "g3",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Grammar and vocabulary in reading",
+   "domain": "Interpreting Texts: Grammar Conventions / Vocabulary",
+   "result": "33% Met Target",
+   "meaning": "The strongest of the seven domains (41 students)."
+  },
+  {
+   "key": "g3-2",
+   "id": "g3",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Author's craft in reading",
+   "domain": "Interpreting Texts: Techniques",
+   "result": "55% Below Target",
+   "meaning": "69 of 125 students Below Target."
+  },
+  {
+   "key": "g3-3",
+   "id": "g3",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Grammar in their own writing",
+   "domain": "Constructing Texts: Grammar Conventions / Vocabulary",
+   "result": "49% Below Target",
+   "meaning": "61 of 125 students Below Target."
+  },
+  {
+   "key": "g3-4",
+   "id": "g3",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Structure and context in reading",
+   "domain": "Interpreting Texts: Context / Structure & Style",
+   "result": "46% Below Target",
+   "meaning": "57 of 125 students Below Target."
+  },
+  {
+   "key": "g4-1",
+   "id": "g4",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Grammar in their own writing",
+   "domain": "Constructing Texts: Grammar Conventions / Vocabulary",
+   "result": "37% Met Target",
+   "meaning": "The strongest of the seven domains (37 students)."
+  },
+  {
+   "key": "g4-2",
+   "id": "g4",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "result": "38% Below Target",
+   "meaning": "38 of 99 students Below Target."
+  },
+  {
+   "key": "g4-3",
+   "id": "g4",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "result": "37% Below Target",
+   "meaning": "37 of 99 students Below Target."
+  },
+  {
+   "key": "g4-4",
+   "id": "g4",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Author's craft in reading",
+   "domain": "Interpreting Texts: Techniques",
+   "result": "35% Below Target",
+   "meaning": "35 of 99 students Below Target."
+  },
+  {
+   "key": "g5-1",
+   "id": "g5",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Organizing their writing",
+   "domain": "Constructing Texts: Context / Structure & Style",
+   "result": "31% Met Target",
+   "meaning": "The strongest of the seven domains (34 students)."
+  },
+  {
+   "key": "g5-2",
+   "id": "g5",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Author's craft in reading",
+   "domain": "Interpreting Texts: Techniques",
+   "result": "51% Below Target",
+   "meaning": "55 of 108 students Below Target."
+  },
+  {
+   "key": "g5-3",
+   "id": "g5",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Grammar in their own writing",
+   "domain": "Constructing Texts: Grammar Conventions / Vocabulary",
+   "result": "44% Below Target",
+   "meaning": "47 of 108 students Below Target."
+  },
+  {
+   "key": "g5-4",
+   "id": "g5",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "result": "37% Below Target",
+   "meaning": "40 of 108 students Below Target."
+  },
+  {
+   "key": "g6-1",
+   "id": "g6",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Grammar and vocabulary in reading",
+   "domain": "Interpreting Texts: Grammar Conventions / Vocabulary",
+   "result": "19% Below Target",
+   "meaning": "Students know the rules."
+  },
+  {
+   "key": "g6-2",
+   "id": "g6",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Author's craft in reading",
+   "domain": "Interpreting Texts: Techniques / Periods & Movements",
+   "result": "41% Below Target",
+   "meaning": "Main gap for Developing students (29 of 38)."
+  },
+  {
+   "key": "g6-3",
+   "id": "g6",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "result": "27% Met Target",
+   "meaning": "Even Proficient students fall Below."
+  },
+  {
+   "key": "g6-4",
+   "id": "g6",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Grammar in their own writing",
+   "domain": "Constructing Texts: Grammar Conventions / Vocabulary",
+   "result": "38% Below Target",
+   "meaning": "The rules aren't showing up in writing."
+  },
+  {
+   "key": "g7-1",
+   "id": "g7",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Reading on grade level",
+   "domain": "Reading Status / Lexile",
+   "result": "85% at grade level",
+   "meaning": "Students can access the text."
+  },
+  {
+   "key": "g7-2",
+   "id": "g7",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "result": "44% Below Target",
+   "meaning": "Only 24% Met Target."
+  },
+  {
+   "key": "g7-3",
+   "id": "g7",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "result": "37% Below Target",
+   "meaning": "Includes 10 of 34 Proficient students."
+  },
+  {
+   "key": "g7-4",
+   "id": "g7",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Grammar and vocabulary",
+   "domain": "Grammar Conventions / Vocabulary (both domains)",
+   "result": "33-38% Below Target",
+   "meaning": "Weak in reading and in writing."
+  },
+  {
+   "key": "g8-1",
+   "id": "g8",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Language and conventions",
+   "domain": "Argument trait: Language Usage & Conventions (0-2)",
+   "result": "75% full credit",
+   "meaning": "Students write clean sentences."
+  },
+  {
+   "key": "g8-2",
+   "id": "g8",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Explaining evidence",
+   "domain": "Argument trait: Evidence & Elaboration (0-3)",
+   "result": "33% scored 0-1",
+   "meaning": "Only 18% earned a 3."
+  },
+  {
+   "key": "g8-3",
+   "id": "g8",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Organizing the argument",
+   "domain": "Argument trait: Purpose & Organization (0-3)",
+   "result": "20% earned a 3",
+   "meaning": "Most stop at a 2."
+  },
+  {
+   "key": "g8-4",
+   "id": "g8",
+   "order": 4,
+   "kind": "Gap",
+   "area": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "result": "25% Met Target",
+   "meaning": "The argument is built on this skill."
+  },
+  {
+   "key": "lc2-1",
+   "id": "lc2",
+   "order": 1,
+   "kind": "Strength",
+   "area": "Reading on grade level",
+   "domain": "Reading Status / Lexile (1080L+)",
+   "result": "82% at grade level or above",
+   "meaning": "Most students can access the text."
+  },
+  {
+   "key": "lc2-2",
+   "id": "lc2",
+   "order": 2,
+   "kind": "Gap",
+   "area": "Grammar and vocabulary in reading",
+   "domain": "Interpreting Texts: Grammar / Vocabulary",
+   "result": "25% Met Target",
+   "meaning": "The lowest of the seven domains."
+  },
+  {
+   "key": "lc2-3",
+   "id": "lc2",
+   "order": 3,
+   "kind": "Gap",
+   "area": "Author's craft in reading",
+   "domain": "Interpreting Texts: Techniques / Periods & Movements",
+   "result": "33% Met Target",
+   "meaning": "Carries the most test weight: 14 of 60 points."
+  },
+  {
+   "key": "lc2-4",
+   "id": "lc2",
+   "order": 4,
+   "kind": "Gap",
+   "area": "The winter section",
+   "domain": "All domains",
+   "result": "27% Proficient or above, against 62% in spring",
+   "meaning": "Winter also averaged 4.0 of 8 on the essay, against 5.4 in spring."
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026); grades 6-8 and Lit & Comp II rows as before"
+  }
+ ]
+}

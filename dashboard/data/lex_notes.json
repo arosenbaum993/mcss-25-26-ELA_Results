@@ -1,0 +1,73 @@
+{
+ "rows": [
+  {
+   "key": "n1",
+   "order": 1,
+   "kind": "Gain",
+   "change": "Far fewer very low readers",
+   "detail": "Students reading below 900L fell from 8 to 2."
+  },
+  {
+   "key": "n2",
+   "order": 2,
+   "kind": "Gain",
+   "change": "The lowest quarter moved up",
+   "detail": "It now begins at 1138L, up from 1080L, and the lowest Lexile in the group rose from 405L to 685L."
+  },
+  {
+   "key": "n3",
+   "order": 3,
+   "kind": "Gain",
+   "change": "More readers at the top",
+   "detail": "Students at 1400L or above grew from 21 (23%) to 25 (28%), and the top quarter now begins at 1430L, up from 1380L."
+  },
+  {
+   "key": "n4",
+   "order": 4,
+   "kind": "Gain",
+   "change": "More readers over both grade-level lines",
+   "detail": "82% read at or above 1080L (was 78%), and 65% read at or above 1185L (was 59%)."
+  },
+  {
+   "key": "n5",
+   "order": 5,
+   "kind": "Gain",
+   "change": "Average Lexile is up",
+   "detail": "The average rose from 1242L to 1283L."
+  },
+  {
+   "key": "n6",
+   "order": 6,
+   "kind": "Steady",
+   "change": "The middle shifted slightly",
+   "detail": "The median is 1260L, 25 points under the prior year's 1285L. This group tested a grade younger. Fewer students landed in the 1300s (15, down from 24) and more landed between 1185L and 1299L (18, up from 10)."
+  },
+  {
+   "key": "n7",
+   "order": 7,
+   "kind": "Watch",
+   "change": "The stronger term flipped",
+   "detail": "In 2024-25 the winter group read higher than spring (median 1333L against 1160L). In 2025-26 spring read higher than winter (1330L against 1148L). The gap follows which students test each term, so check each term's readers early."
+  },
+  {
+   "key": "n8",
+   "order": 8,
+   "kind": "Next step",
+   "change": "Most Developing students can already read the text",
+   "detail": "27 of the 36 Developing students read at or above 1080L. For them the next step is writing and analysis, not reading level."
+  },
+  {
+   "key": "n9",
+   "order": 9,
+   "kind": "Next step",
+   "change": "Beginning students need reading support first",
+   "detail": "All 7 Beginning students read below 1080L, from 685L to 1065L."
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring 2025-26) and 2024-25 American Lit Milestones.xlsx (93 test records, mostly 11th graders). Percentages are rounded to whole numbers."
+  }
+ ]
+}

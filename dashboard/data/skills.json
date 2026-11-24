@@ -1,0 +1,122 @@
+{
+ "rows": [
+  {
+   "key": "g3-elab",
+   "id": "g3",
+   "group": "Grade 3",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 14
+  },
+  {
+   "key": "g4-elab",
+   "id": "g4",
+   "group": "Grade 4",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 22
+  },
+  {
+   "key": "g5-elab",
+   "id": "g5",
+   "group": "Grade 5",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 26
+  },
+  {
+   "key": "g6-elab",
+   "id": "g6",
+   "group": "Grade 6",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 27
+  },
+  {
+   "key": "g7-elab",
+   "id": "g7",
+   "group": "Grade 7",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 24
+  },
+  {
+   "key": "g8-elab",
+   "id": "g8",
+   "group": "Grade 8",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 36
+  },
+  {
+   "key": "lc2-elab",
+   "id": "lc2",
+   "group": "Lit & Comp II",
+   "skill": "Elaboration in writing",
+   "domain": "Constructing Texts: Techniques / Research & Analysis",
+   "pct_met": 42
+  },
+  {
+   "key": "g3-sources",
+   "id": "g3",
+   "group": "Grade 3",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 30
+  },
+  {
+   "key": "g4-sources",
+   "id": "g4",
+   "group": "Grade 4",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 33
+  },
+  {
+   "key": "g5-sources",
+   "id": "g5",
+   "group": "Grade 5",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 20
+  },
+  {
+   "key": "g6-sources",
+   "id": "g6",
+   "group": "Grade 6",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 33
+  },
+  {
+   "key": "g7-sources",
+   "id": "g7",
+   "group": "Grade 7",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 29
+  },
+  {
+   "key": "g8-sources",
+   "id": "g8",
+   "group": "Grade 8",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 25
+  },
+  {
+   "key": "lc2-sources",
+   "id": "lc2",
+   "group": "Lit & Comp II",
+   "skill": "Reading across sources",
+   "domain": "Interpreting Texts: Research & Analysis",
+   "pct_met": 33
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026); Lit & Comp II from LitComp 2 2025-26 MCA Analysis.xlsx"
+  }
+ ]
+}

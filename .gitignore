@@ -1,0 +1,6 @@
+# Student-level files never go in this repository.
+raw/
+analysis/out/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,226 @@
+{
+ "rows": [
+  {
+   "key": "g3-0",
+   "id": "g3",
+   "score": 0,
+   "students": 21
+  },
+  {
+   "key": "g3-1",
+   "id": "g3",
+   "score": 1,
+   "students": 16
+  },
+  {
+   "key": "g3-2",
+   "id": "g3",
+   "score": 2,
+   "students": 26
+  },
+  {
+   "key": "g3-3",
+   "id": "g3",
+   "score": 3,
+   "students": 28
+  },
+  {
+   "key": "g3-4",
+   "id": "g3",
+   "score": 4,
+   "students": 3
+  },
+  {
+   "key": "g3-5",
+   "id": "g3",
+   "score": 5,
+   "students": 4
+  },
+  {
+   "key": "g3-6",
+   "id": "g3",
+   "score": 6,
+   "students": 10
+  },
+  {
+   "key": "g3-7",
+   "id": "g3",
+   "score": 7,
+   "students": 0
+  },
+  {
+   "key": "g3-8",
+   "id": "g3",
+   "score": 8,
+   "students": 0
+  },
+  {
+   "key": "g5-0",
+   "id": "g5",
+   "score": 0,
+   "students": 7
+  },
+  {
+   "key": "g5-1",
+   "id": "g5",
+   "score": 1,
+   "students": 4
+  },
+  {
+   "key": "g5-2",
+   "id": "g5",
+   "score": 2,
+   "students": 6
+  },
+  {
+   "key": "g5-3",
+   "id": "g5",
+   "score": 3,
+   "students": 37
+  },
+  {
+   "key": "g5-4",
+   "id": "g5",
+   "score": 4,
+   "students": 6
+  },
+  {
+   "key": "g5-5",
+   "id": "g5",
+   "score": 5,
+   "students": 9
+  },
+  {
+   "key": "g5-6",
+   "id": "g5",
+   "score": 6,
+   "students": 24
+  },
+  {
+   "key": "g5-7",
+   "id": "g5",
+   "score": 7,
+   "students": 0
+  },
+  {
+   "key": "g5-8",
+   "id": "g5",
+   "score": 8,
+   "students": 8
+  },
+  {
+   "key": "g8-0",
+   "id": "g8",
+   "score": 0,
+   "students": 7
+  },
+  {
+   "key": "g8-1",
+   "id": "g8",
+   "score": 1,
+   "students": 0
+  },
+  {
+   "key": "g8-2",
+   "id": "g8",
+   "score": 2,
+   "students": 2
+  },
+  {
+   "key": "g8-3",
+   "id": "g8",
+   "score": 3,
+   "students": 11
+  },
+  {
+   "key": "g8-4",
+   "id": "g8",
+   "score": 4,
+   "students": 11
+  },
+  {
+   "key": "g8-5",
+   "id": "g8",
+   "score": 5,
+   "students": 4
+  },
+  {
+   "key": "g8-6",
+   "id": "g8",
+   "score": 6,
+   "students": 45
+  },
+  {
+   "key": "g8-7",
+   "id": "g8",
+   "score": 7,
+   "students": 2
+  },
+  {
+   "key": "g8-8",
+   "id": "g8",
+   "score": 8,
+   "students": 18
+  },
+  {
+   "key": "lc2-0",
+   "id": "lc2",
+   "score": 0,
+   "students": 8
+  },
+  {
+   "key": "lc2-1",
+   "id": "lc2",
+   "score": 1,
+   "students": 3
+  },
+  {
+   "key": "lc2-2",
+   "id": "lc2",
+   "score": 2,
+   "students": 1
+  },
+  {
+   "key": "lc2-3",
+   "id": "lc2",
+   "score": 3,
+   "students": 17
+  },
+  {
+   "key": "lc2-4",
+   "id": "lc2",
+   "score": 4,
+   "students": 3
+  },
+  {
+   "key": "lc2-5",
+   "id": "lc2",
+   "score": 5,
+   "students": 6
+  },
+  {
+   "key": "lc2-6",
+   "id": "lc2",
+   "score": 6,
+   "students": 30
+  },
+  {
+   "key": "lc2-7",
+   "id": "lc2",
+   "score": 7,
+   "students": 0
+  },
+  {
+   "key": "lc2-8",
+   "id": "lc2",
+   "score": 8,
+   "students": 21
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026); Lit & Comp II essay totals from LitComp 2 2025-26 MCA Analysis.xlsx"
+  }
+ ]
+}

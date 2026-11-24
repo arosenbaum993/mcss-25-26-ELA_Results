@@ -1,0 +1,98 @@
+{
+ "rows": [
+  {
+   "key": "n",
+   "order": 1,
+   "measure": "Students tested",
+   "before": "93",
+   "now": "89",
+   "change": ""
+  },
+  {
+   "key": "median",
+   "order": 2,
+   "measure": "Median Lexile",
+   "before": "1285L",
+   "now": "1260L",
+   "change": "25L lower"
+  },
+  {
+   "key": "mean",
+   "order": 3,
+   "measure": "Average Lexile",
+   "before": "1242L",
+   "now": "1283L",
+   "change": "41L higher"
+  },
+  {
+   "key": "q1",
+   "order": 4,
+   "measure": "Lowest quarter begins at",
+   "before": "1080L",
+   "now": "1138L",
+   "change": "58L higher"
+  },
+  {
+   "key": "q3",
+   "order": 5,
+   "measure": "Top quarter begins at",
+   "before": "1380L",
+   "now": "1430L",
+   "change": "50L higher"
+  },
+  {
+   "key": "low",
+   "order": 6,
+   "measure": "Lowest Lexile",
+   "before": "405L",
+   "now": "685L",
+   "change": "280L higher"
+  },
+  {
+   "key": "high",
+   "order": 7,
+   "measure": "Highest Lexile",
+   "before": "1800L",
+   "now": "1795L",
+   "change": "About the same"
+  },
+  {
+   "key": "b900",
+   "order": 8,
+   "measure": "Below 900L",
+   "before": "8 (9%)",
+   "now": "2 (2%)",
+   "change": "6 fewer students"
+  },
+  {
+   "key": "a1080",
+   "order": 9,
+   "measure": "At or above 1080L",
+   "before": "73 (78%)",
+   "now": "73 (82%)",
+   "change": "Up 4 points"
+  },
+  {
+   "key": "a1185",
+   "order": 10,
+   "measure": "At or above 1185L",
+   "before": "55 (59%)",
+   "now": "58 (65%)",
+   "change": "Up 6 points"
+  },
+  {
+   "key": "a1400",
+   "order": 11,
+   "measure": "At or above 1400L",
+   "before": "21 (23%)",
+   "now": "25 (28%)",
+   "change": "Up 5 points"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring 2025-26) and 2024-25 American Lit Milestones.xlsx (93 test records, mostly 11th graders). Percentages are rounded to whole numbers."
+  }
+ ]
+}

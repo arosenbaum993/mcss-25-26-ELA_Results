@@ -1,0 +1,48 @@
+{
+ "system": {
+  "name": "McIntosh County Schools Design System"
+ },
+ "light": {
+  "ground": "#fbf8f3",
+  "card": "#ffffff",
+  "text": "#2a2620",
+  "muted": "#5a5443",
+  "border": "#cfc6b3",
+  "good": "#2e7d3f",
+  "warning": "#c98a14",
+  "bad": "#c8102e",
+  "charts": [
+   "#7b1818",
+   "#b8924a",
+   "#2a6a8a",
+   "#3d382c"
+  ]
+ },
+ "dark": {
+  "ground": "#0a0907",
+  "card": "#18160f",
+  "text": "#fbf8f3",
+  "muted": "#aaa18d",
+  "border": "#3d382c",
+  "good": "#5fb372",
+  "warning": "#e0a83a",
+  "bad": "#ef6b6b",
+  "charts": [
+   "#cc7474",
+   "#d6ba70",
+   "#6fb0cf",
+   "#cfc6b3"
+  ]
+ },
+ "corners": "6px",
+ "sizes": {
+  "caption": "0.875rem",
+  "body": "1rem",
+  "heading": "1.25rem",
+  "title": "2rem"
+ },
+ "fonts": {
+  "text": "Inter, system-ui, sans-serif",
+  "display": "'Playfair Display', Georgia, serif"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "rows": [
+  {
+   "id": "winter",
+   "name": "Winter 2025-26",
+   "order": 1,
+   "tested": 26,
+   "beginning": 5,
+   "developing": 14,
+   "proficient": 4,
+   "distinguished": 3,
+   "prof_plus": 7,
+   "pct_beginning": 19,
+   "pct_developing": 54,
+   "pct_proficient": 15,
+   "pct_distinguished": 12,
+   "pct_prof_plus": 27
+  },
+  {
+   "id": "spring",
+   "name": "Spring 2025-26",
+   "order": 2,
+   "tested": 63,
+   "beginning": 2,
+   "developing": 22,
+   "proficient": 30,
+   "distinguished": 9,
+   "prof_plus": 39,
+   "pct_beginning": 3,
+   "pct_developing": 35,
+   "pct_proficient": 48,
+   "pct_distinguished": 14,
+   "pct_prof_plus": 62
+  },
+  {
+   "id": "combined",
+   "name": "2025-26 combined",
+   "order": 3,
+   "tested": 89,
+   "beginning": 7,
+   "developing": 36,
+   "proficient": 34,
+   "distinguished": 12,
+   "prof_plus": 46,
+   "pct_beginning": 8,
+   "pct_developing": 40,
+   "pct_proficient": 38,
+   "pct_distinguished": 13,
+   "pct_prof_plus": 52
+  },
+  {
+   "id": "prior",
+   "name": "2024-25 American Lit",
+   "order": 4,
+   "tested": 93,
+   "beginning": 29,
+   "developing": 33,
+   "proficient": 28,
+   "distinguished": 3,
+   "prof_plus": 31,
+   "pct_beginning": 31,
+   "pct_developing": 35,
+   "pct_proficient": 30,
+   "pct_distinguished": 3,
+   "pct_prof_plus": 33
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "LitComp 2 2025-26 MCA Analysis.xlsx (Winter Dec 2025 + Spring 2026 EOC rosters); 2024-25 row from 2024-25 American Lit Milestones.xlsx"
+  }
+ ]
+}

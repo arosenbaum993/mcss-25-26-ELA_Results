@@ -1,0 +1,64 @@
+{
+ "rows": [
+  {
+   "key": "b900",
+   "order": 1,
+   "band": "Below 900L",
+   "n_before": 8,
+   "pct_before": 9,
+   "n_now": 2,
+   "pct_now": 2
+  },
+  {
+   "key": "b1079",
+   "order": 2,
+   "band": "900L to 1079L",
+   "n_before": 12,
+   "pct_before": 13,
+   "n_now": 14,
+   "pct_now": 16
+  },
+  {
+   "key": "b1184",
+   "order": 3,
+   "band": "1080L to 1184L",
+   "n_before": 18,
+   "pct_before": 19,
+   "n_now": 15,
+   "pct_now": 17
+  },
+  {
+   "key": "b1299",
+   "order": 4,
+   "band": "1185L to 1299L",
+   "n_before": 10,
+   "pct_before": 11,
+   "n_now": 18,
+   "pct_now": 20
+  },
+  {
+   "key": "b1399",
+   "order": 5,
+   "band": "1300L to 1399L",
+   "n_before": 24,
+   "pct_before": 26,
+   "n_now": 15,
+   "pct_now": 17
+  },
+  {
+   "key": "b1400",
+   "order": 6,
+   "band": "1400L and above",
+   "n_before": 21,
+   "pct_before": 23,
+   "n_now": 25,
+   "pct_now": 28
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring 2025-26) and 2024-25 American Lit Milestones.xlsx (93 test records, mostly 11th graders). Percentages are rounded to whole numbers."
+  }
+ ]
+}

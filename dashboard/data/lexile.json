@@ -1,0 +1,42 @@
+{
+ "rows": [
+  {
+   "key": "at1080",
+   "order": 1,
+   "label": "read at or above 1080L",
+   "now": "82%",
+   "before": "78%",
+   "change": "Up 4 points"
+  },
+  {
+   "key": "at1185",
+   "order": 2,
+   "label": "read at or above 1185L",
+   "now": "65%",
+   "before": "59%",
+   "change": "Up 6 points"
+  },
+  {
+   "key": "q1",
+   "order": 3,
+   "label": "where the lowest quarter of readers begins",
+   "now": "1138L",
+   "before": "1080L",
+   "change": "58L higher"
+  },
+  {
+   "key": "low",
+   "order": 4,
+   "label": "lowest Lexile in the group",
+   "now": "685L",
+   "before": "405L",
+   "change": "280L higher"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring) and 2024-25 American Lit Milestones.xlsx (93 test records). Percentages are rounded to whole numbers; the lowest-quarter figure is the 25th percentile."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "rows": [
+  {
+   "key": "beg",
+   "order": 1,
+   "level": "Beginning",
+   "students": 7,
+   "median": "925L",
+   "at1080": "0 of 7"
+  },
+  {
+   "key": "dev",
+   "order": 2,
+   "level": "Developing",
+   "students": 36,
+   "median": "1160L",
+   "at1080": "27 of 36"
+  },
+  {
+   "key": "pro",
+   "order": 3,
+   "level": "Proficient",
+   "students": 34,
+   "median": "1368L",
+   "at1080": "34 of 34"
+  },
+  {
+   "key": "dis",
+   "order": 4,
+   "level": "Distinguished",
+   "students": 12,
+   "median": "1690L",
+   "at1080": "12 of 12"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring 2025-26) and 2024-25 American Lit Milestones.xlsx (93 test records, mostly 11th graders). Percentages are rounded to whole numbers."
+  }
+ ]
+}
