@@ -1,0 +1,76 @@
+{
+ "rows": [
+  {
+   "key": "t3",
+   "order": 3,
+   "grade": "Grade 3",
+   "lex_before": "590L",
+   "lex_now": "560L",
+   "line_before": "60%",
+   "line_now": "55%",
+   "sgp_before": "No growth score",
+   "sgp_now": "No growth score"
+  },
+  {
+   "key": "t4",
+   "order": 4,
+   "grade": "Grade 4",
+   "lex_before": "753L",
+   "lex_now": "745L",
+   "line_before": "54%",
+   "line_now": "53%",
+   "sgp_before": "41",
+   "sgp_now": "42.5"
+  },
+  {
+   "key": "t5",
+   "order": 5,
+   "grade": "Grade 5",
+   "lex_before": "940L",
+   "lex_now": "890L",
+   "line_before": "71%",
+   "line_now": "65%",
+   "sgp_before": "35",
+   "sgp_now": "39"
+  },
+  {
+   "key": "t6",
+   "order": 6,
+   "grade": "Grade 6",
+   "lex_before": "915L",
+   "lex_now": "1000L",
+   "line_before": "50%",
+   "line_now": "66%",
+   "sgp_before": "41",
+   "sgp_now": "53"
+  },
+  {
+   "key": "t7",
+   "order": 7,
+   "grade": "Grade 7",
+   "lex_before": "1095L",
+   "lex_now": "1115L",
+   "line_before": "74%",
+   "line_now": "85%",
+   "sgp_before": "45",
+   "sgp_now": "56"
+  },
+  {
+   "key": "t8",
+   "order": 8,
+   "grade": "Grade 8",
+   "lex_before": "1135L",
+   "lex_now": "1130L",
+   "line_before": "72%",
+   "line_now": "80%",
+   "sgp_before": "46",
+   "sgp_now": "57"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026) and Longitudinal_Data.xlsx, ELA rows for 2024-25"
+  }
+ ]
+}

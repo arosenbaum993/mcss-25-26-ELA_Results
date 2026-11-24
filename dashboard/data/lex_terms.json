@@ -1,0 +1,46 @@
+{
+ "rows": [
+  {
+   "key": "w2425",
+   "order": 1,
+   "year": "2024-25",
+   "term": "Winter",
+   "students": 46,
+   "median": "1333L",
+   "at1080": "87%"
+  },
+  {
+   "key": "s2425",
+   "order": 2,
+   "year": "2024-25",
+   "term": "Spring",
+   "students": 47,
+   "median": "1160L",
+   "at1080": "70%"
+  },
+  {
+   "key": "w2526",
+   "order": 3,
+   "year": "2025-26",
+   "term": "Winter",
+   "students": 26,
+   "median": "1148L",
+   "at1080": "62%"
+  },
+  {
+   "key": "s2526",
+   "order": 4,
+   "year": "2025-26",
+   "term": "Spring",
+   "students": 63,
+   "median": "1330L",
+   "at1080": "90%"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "Lexile column for every student in LitComp 2 2025-26 MCA Analysis.xlsx (89 students, Winter + Spring 2025-26) and 2024-25 American Lit Milestones.xlsx (93 test records, mostly 11th graders). Percentages are rounded to whole numbers."
+  }
+ ]
+}

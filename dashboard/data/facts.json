@@ -1,0 +1,234 @@
+{
+ "rows": [
+  {
+   "key": "g3-1",
+   "id": "g3",
+   "order": 1,
+   "display": "646",
+   "label": "median scale score",
+   "note": "29 points under the Proficient cut of 675."
+  },
+  {
+   "key": "g3-2",
+   "id": "g3",
+   "order": 2,
+   "display": "55%",
+   "label": "read on grade level",
+   "note": "69 of 125 students, based on Lexile."
+  },
+  {
+   "key": "g3-3",
+   "id": "g3",
+   "order": 3,
+   "display": "8",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674."
+  },
+  {
+   "key": "g3-4",
+   "id": "g3",
+   "order": 4,
+   "display": "47",
+   "label": "students scored Proficient or Distinguished",
+   "note": "In their first year taking the Milestones."
+  },
+  {
+   "key": "g4-1",
+   "id": "g4",
+   "order": 1,
+   "display": "673",
+   "label": "median scale score",
+   "note": "Two points under the Proficient cut of 675."
+  },
+  {
+   "key": "g4-2",
+   "id": "g4",
+   "order": 2,
+   "display": "53%",
+   "label": "read on grade level",
+   "note": "52 of 99 students, based on Lexile."
+  },
+  {
+   "key": "g4-3",
+   "id": "g4",
+   "order": 3,
+   "display": "15",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674."
+  },
+  {
+   "key": "g4-4",
+   "id": "g4",
+   "order": 4,
+   "display": "27",
+   "label": "students showed High Growth",
+   "note": "Median growth percentile of 42.5."
+  },
+  {
+   "key": "g5-1",
+   "id": "g5",
+   "order": 1,
+   "display": "661",
+   "label": "median scale score",
+   "note": "14 points under the Proficient cut of 675."
+  },
+  {
+   "key": "g5-2",
+   "id": "g5",
+   "order": 2,
+   "display": "65%",
+   "label": "read on grade level",
+   "note": "70 of 108 students, based on Lexile."
+  },
+  {
+   "key": "g5-3",
+   "id": "g5",
+   "order": 3,
+   "display": "14",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674."
+  },
+  {
+   "key": "g5-4",
+   "id": "g5",
+   "order": 4,
+   "display": "24",
+   "label": "students showed High Growth",
+   "note": "Median growth percentile of 39."
+  },
+  {
+   "key": "g6-1",
+   "id": "g6",
+   "order": 1,
+   "display": "678",
+   "label": "median scale score",
+   "note": "Three points over the Proficient cut of 675."
+  },
+  {
+   "key": "g6-2",
+   "id": "g6",
+   "order": 2,
+   "display": "33",
+   "label": "students reading below grade level",
+   "note": "One in three, based on Lexile."
+  },
+  {
+   "key": "g6-3",
+   "id": "g6",
+   "order": 3,
+   "display": "11",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674, inside the test's margin of error."
+  },
+  {
+   "key": "g6-4",
+   "id": "g6",
+   "order": 4,
+   "display": "41%",
+   "label": "Below Target on author's craft",
+   "note": "The most of any grade."
+  },
+  {
+   "key": "g7-1",
+   "id": "g7",
+   "order": 1,
+   "display": "669",
+   "label": "median scale score",
+   "note": "Six points under the Proficient cut of 675."
+  },
+  {
+   "key": "g7-2",
+   "id": "g7",
+   "order": 2,
+   "display": "85%",
+   "label": "read on grade level",
+   "note": "Median Lexile 1115L. Reading level is not the barrier."
+  },
+  {
+   "key": "g7-3",
+   "id": "g7",
+   "order": 3,
+   "display": "21",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674, inside the test's margin of error."
+  },
+  {
+   "key": "g7-4",
+   "id": "g7",
+   "order": 4,
+   "display": "30 of 41",
+   "label": "on-level Developing readers Below Target in writing",
+   "note": "They can read it. They can't yet write about it."
+  },
+  {
+   "key": "g8-1",
+   "id": "g8",
+   "order": 1,
+   "display": "673",
+   "label": "median scale score",
+   "note": "Two points under the Proficient cut of 675."
+  },
+  {
+   "key": "g8-2",
+   "id": "g8",
+   "order": 2,
+   "display": "45",
+   "label": "students scored exactly 2-2-2 on the argument",
+   "note": "Including 26 of the 39 Proficient students."
+  },
+  {
+   "key": "g8-3",
+   "id": "g8",
+   "order": 3,
+   "display": "75%",
+   "label": "earned full credit on Language",
+   "note": "Conventions are a strength."
+  },
+  {
+   "key": "g8-4",
+   "id": "g8",
+   "order": 4,
+   "display": "22",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674, inside the test's margin of error."
+  },
+  {
+   "key": "lc2-1",
+   "id": "lc2",
+   "order": 1,
+   "display": "676",
+   "label": "median scale score",
+   "note": "One point over the Proficient cut of 675."
+  },
+  {
+   "key": "lc2-2",
+   "id": "lc2",
+   "order": 2,
+   "display": "82%",
+   "label": "read at grade level or above",
+   "note": "73 of 89 students at 1080L or higher."
+  },
+  {
+   "key": "lc2-3",
+   "id": "lc2",
+   "order": 3,
+   "display": "16",
+   "label": "students just under Proficient",
+   "note": "Scored 660-674."
+  },
+  {
+   "key": "lc2-4",
+   "id": "lc2",
+   "order": 4,
+   "display": "30",
+   "label": "students scored exactly 2-2-2 on the essay",
+   "note": "21 students earned the full 8."
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026); grades 6-8 and Lit & Comp II figures as before"
+  }
+ ]
+}

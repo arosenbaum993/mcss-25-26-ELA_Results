@@ -1,0 +1,60 @@
+{
+ "rows": [
+  {
+   "key": "c4",
+   "order": 4,
+   "cohort": "Grade 3 to grade 4",
+   "matched": "82 of 99",
+   "before": "618L",
+   "now": "743L",
+   "gain": "160L",
+   "grew": "84%"
+  },
+  {
+   "key": "c5",
+   "order": 5,
+   "cohort": "Grade 4 to grade 5",
+   "matched": "95 of 108",
+   "before": "750L",
+   "now": "890L",
+   "gain": "160L",
+   "grew": "80%"
+  },
+  {
+   "key": "c6",
+   "order": 6,
+   "cohort": "Grade 5 to grade 6",
+   "matched": "82 of 96",
+   "before": "955L",
+   "now": "1025L",
+   "gain": "43L",
+   "grew": "67%"
+  },
+  {
+   "key": "c7",
+   "order": 7,
+   "cohort": "Grade 6 to grade 7",
+   "matched": "90 of 93",
+   "before": "948L",
+   "now": "1115L",
+   "gain": "175L",
+   "grew": "93%"
+  },
+  {
+   "key": "c8",
+   "order": 8,
+   "cohort": "Grade 7 to grade 8",
+   "matched": "87 of 101",
+   "before": "1095L",
+   "now": "1135L",
+   "gain": "25L",
+   "grew": "63%"
+  }
+ ],
+ "meta": [
+  {
+   "label": "Source",
+   "value": "2025-26 student rosters: Georgia Milestones Spring 2026 ELA EOG extracts for Todd Grant grades 3-5 and MCMS grades 6-8 (Nov 24, 2026) and Longitudinal_Data.xlsx, ELA rows for 2024-25, matched by student ID"
+  }
+ ]
+}
